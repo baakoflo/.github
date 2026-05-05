@@ -27,4 +27,4 @@ the communities we serve.
 
 ---
 
-> Rooted in Ghana. Built for Africa.
+> Rooted in Ghana, Connecting Africa.
