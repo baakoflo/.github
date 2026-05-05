@@ -17,11 +17,11 @@ software and managed IT services.
 ## Who We Serve
 
 We work with hospitals, universities, commercial enterprises, and public institutions
-across Ghana and the wider West African region.
+across Ghana and the wider African region.
 
 ## Our Mission
 
-To close the digital divide in West Africa by delivering world-class technology
+To close the digital divide in Africa by delivering world-class technology
 infrastructure and software solutions that are affordable, reliable, and built for
 the communities we serve.
 
