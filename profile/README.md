@@ -27,4 +27,4 @@ the communities we serve.
 
 ---
 
-> Rooted in Ghana, Connecting Africa.
+> BaakoFlo, Connecting Africa.
