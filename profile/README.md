@@ -1,7 +1,7 @@
 # BaakoFlo
 
 BaakoFlo is a technology and infrastructure company building the digital backbone
-of West Africa. We design, deploy, and operate the systems that institutions and
+of Africa. We design, deploy, and operate the systems that institutions and
 businesses depend on - from fiber optic networks and data centers to enterprise
 software and managed IT services.
 
